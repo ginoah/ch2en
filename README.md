@@ -4,7 +4,7 @@
 根據 [全字庫](https://data.gov.tw/dataset/5961) 做轉換
 
 ```
-$ py example.py
+$ python3 example.py
 
 ch2en.zhuyin("測試")   : ㄘㄜˋㄕˋ
 ch2en.zhuen("測試")    : hk4g4
